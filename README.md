@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @techwithpetra
-- 👀 I’m interested in tech productivity
+ 👋 Hi, I’m @techwithpetra
+ 👀 I’m interested in tech productivity
 
 <!---
 techwithpetra/techwithpetra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
